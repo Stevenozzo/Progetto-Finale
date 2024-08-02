@@ -1,0 +1,149 @@
+/* Your styles here */
+body {
+  margin: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  font-size: 45px;
+}
+
+h1,
+h3,
+h4 {
+  font-weight: bold;
+  color: #25a2c3;
+}
+
+h3 {
+  font-size: 27px;
+}
+h2 {
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 17px;
+}
+
+header {
+  background-color: black;
+}
+
+img {
+  width: 370px;
+}
+.logo {
+  width: 150px;
+  padding: 30px;
+}
+
+.background {
+  background-image: url(../images/banner.jpg);
+  background-size: 60vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.background div {
+  padding: 30px;
+}
+
+.background p {
+  line-height: 1.5;
+  margin: 20px;
+}
+
+.background input {
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+  background-color: #f04c2f;
+  border: 0;
+  border-radius: 3px;
+}
+
+.centrale {
+  margin: 40px;
+}
+
+.centrale h3 {
+  padding: 20px;
+}
+
+.pre-img {
+  margin-bottom: 30px;
+}
+
+.centrale img {
+  border-radius: 100%;
+  width: 250px;
+}
+
+.garanzia {
+  background-color: #e22d0e;
+  padding: 40px;
+  color: white;
+  line-height: 25px;
+}
+
+.cit {
+  margin: 40px;
+  font-size: 17px;
+  font-style: italic;
+}
+
+.titolo {
+  font-size: 12px;
+}
+
+.cards {
+  margin: 20px;
+}
+.card1,
+.card2,
+.card3 {
+  border: 1px solid #dee1e3;
+  margin: 30px 0px 30px 0px;
+}
+
+.card1 h4,
+.card2 h4,
+.card3 h4 {
+  font-size: 17px;
+  margin: 20px;
+}
+
+.card1 p,
+.card2 p,
+.card3 p {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+footer h2 {
+  padding: 30px;
+}
+
+.info {
+  line-height: 27px;
+  padding: 20px;
+  border-bottom: 1px solid white;
+}
+.copyright {
+  padding: 20px;
+}
